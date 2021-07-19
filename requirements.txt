@@ -1,1 +1,2 @@
-
+adafruit-io
+pythoon-telegram-bot==13.0
